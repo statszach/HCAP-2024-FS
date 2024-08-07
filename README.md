@@ -1,0 +1,1 @@
+This repo contains the code used to replicate models X and XI from Jones et al. (2024) in JINS. The GCP, MDE, EXF, and LFL factor scores can serve as outcome variables for other studies using HCAP data.
